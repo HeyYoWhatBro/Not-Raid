@@ -1,2 +1,3 @@
 # Not-Raid
-Raid By Nothing Create In Js
+npm install For Install package
+Node start.js to run raid

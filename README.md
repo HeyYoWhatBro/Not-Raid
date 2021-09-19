@@ -1,5 +1,5 @@
 # Not-Raid
-Support Any Computer,Phone,Rdp
+Support Google Cloud Shell And Rdp And Pc
 
 npm install For Install package
 
